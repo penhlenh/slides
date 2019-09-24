@@ -1,0 +1,15 @@
+
+= Here Comes Traefik!
+
+[.noshadow]
+image::traefik-architecture.png["Traefik's Architecture",width=900]
+
+[{invert}]
+== Traefik Project
+
+* link:https://github.com/containous/traefik[icon:github[] https://github.com/containous/traefik]
+* MIT License
+* Written in Go
+* 24,000+ ⭐ 1B+ ⬇️ 400+ 👷
+* Created in 2015, 4Y 🎂
+* Current stable branch: `v2.0`
